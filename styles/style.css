@@ -9,13 +9,13 @@ header {
 }
 
 .header_logo {
-  justify-self: center;
-  background-color: #fff;
   width: 148px;
   height: 105px;
   display: flex;
   justify-content: center;
   align-items: center;
+  justify-self: center;
+  background-color: #fff;
 }
 
 .header_menu {
