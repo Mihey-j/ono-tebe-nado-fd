@@ -234,12 +234,12 @@ header {
 .view_more {
   display: block;
   text-underline-offset: 3px;
-  padding-top: 30px;
+  padding-top: 7px;
   color: #000;
   font-size: 20px;
   font-weight: 400;
   line-height: 23.48px;
-  margin-left: 64px;
+  margin-left: 40px;
 }
 
 .about {
